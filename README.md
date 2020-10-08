@@ -1,6 +1,7 @@
 # Hi there 👋
 
 - :lock: I'm a Security Engineer who loves to learn new things.
-- :books: These days I'm learning more about **Threat Modeling**, and **Ruby** Programming
+- :books: These days I'm focused on **Threat Modeling**, and **Ruby** Programming
 - :cloud: Ask me about Continuous Security, AWS, Python, Application Security and Open Source Vulnerability Research
+- :coffee: I'll have Iced-coffee any time and day including winter, don't @ me
 - :snowboarder: I love snowboarding but I suck at it :cry:
